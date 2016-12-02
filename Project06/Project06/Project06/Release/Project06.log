@@ -1,0 +1,10 @@
+﻿  Source.cpp
+Source.cpp(54): warning C4018: '<': signed/unsigned mismatch
+Source.cpp(120): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  1 of 268 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Project06.vcxproj -> C:\Users\10781263\Downloads\Project06\Project06\Release\Project06.exe
+  Project06.vcxproj -> C:\Users\10781263\Downloads\Project06\Project06\Release\Project06.pdb (Full PDB)

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+c:\users\10781263\downloads\project06\project06\project06\source.cpp(54): warning C4018: '<': signed/unsigned mismatch
+c:\users\10781263\downloads\project06\project06\project06\source.cpp(120): warning C4018: '<': signed/unsigned mismatch
+  Project06.vcxproj -> C:\Users\10781263\Downloads\Project06\Project06\Debug\Project06.exe
+  Project06.vcxproj -> C:\Users\10781263\Downloads\Project06\Project06\Debug\Project06.pdb (Partial PDB)
